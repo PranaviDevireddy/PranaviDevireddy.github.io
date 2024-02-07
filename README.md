@@ -7,8 +7,8 @@ I'm Pranavi a first year student from **CSE Department** in **IIT Goa**.
 # Education
 
 |    Acadamic Year            |Standard                         | School Name |
-
-
+|
+|
 |----------------|-------------------------------|-----------------------------|
 | 2020 -2021  |               10th        |  Srichaintanya    |
 |  2021-2023 | 11th -12th     |Miity   |
