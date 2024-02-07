@@ -10,7 +10,7 @@ I'm Pranavi a first year student from **CSE Department** in **IIT Goa**.
 |----------------   |-------------------------------|-----------------------------|
 | 2020 -2021  |               10th        |  Srichaintanya    |
 |  2021-2023 | 11th -12th     |Miity   |
-| 2023 -     | B-tech 1st year | IIT Goa|
+| 2023 -2024  | B-tech 1st year | IIT Goa|
 # Course@IIT Goa
 
 > **Autumn courses**
@@ -21,6 +21,7 @@ I'm Pranavi a first year student from **CSE Department** in **IIT Goa**.
   - **CH102**  Dr. Raja Mitra
   - **N0100**   Dr. Santosh Upadhyay
   - **HS101**   Dr. Sabiha Hashami
+  - 
   > **Spring Courses**
 
   &square; **CS102**   Dr. Clint Pazhayidam George [ Course webpage ](https://clintpgeorge.github.io/cs-102/spring-2023/)
