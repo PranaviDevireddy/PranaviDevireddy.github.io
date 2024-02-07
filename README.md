@@ -24,7 +24,8 @@ I'm Pranavi a first year student from **CSE Department** in **IIT Goa**.
   - **N0100**  Dr. Santosh Upadhyay
   - **HS101**  Dr. Sabiha Hashami
   > **Spring Courses**
-   &square; **CS102**   Dr. Clint Pazhayidam George [ Course webpage ](https://clintpgeorge.github.io/cs-102/spring-2023/)
+
+  &square; **CS102**   Dr. Clint Pazhayidam George [ Course webpage ](https://clintpgeorge.github.io/cs-102/spring-2023/)
   &square; **PH102**  Dr. Vaibhav Wasnik 
   &square; **ME101** Dr. Arindam Das
   &square;  **EE101**   Dr. Apeksha Madhukar
