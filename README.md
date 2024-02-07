@@ -40,9 +40,11 @@ I'm Pranavi a first year student from **CSE Department** in **IIT Goa**.
 # Hobbies, Interests, Extracurricular Activities, Projects
 
 > **Hobbies**
-- Drawing
-- Dancing
-- watching movies
+
+
+ - Drawing
+ - Dancing
+ - watching movies
 
 
 
