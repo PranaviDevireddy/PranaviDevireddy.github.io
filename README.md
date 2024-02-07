@@ -14,13 +14,13 @@ I'm Pranavi a first year student from **CSE Department** in **IIT Goa**.
 # Course@IIT Goa
 
 > **Autumn courses**
-  - **CS101** Dr. Clint Pazhayidam George  [Cousre webpage](https://clintpgeorge.github.io/cs-101/autumn-2021/)
-  - **MA101** Dr. Shiv Parsad
-  - **PH101** Dr. Santosh Kumar Das
-  - **CH101** Dr. E. Siva Subramaniam Iyer
-  - **CH102** Dr. Raja Mitra
-  - **N0100**  Dr. Santosh Upadhyay
-  - **HS101**  Dr. Sabiha Hashami
+  - **CS101**  Dr. Clint Pazhayidam George  [Cousre webpage](https://clintpgeorge.github.io/cs-101/autumn-2021/)
+  - **MA101**  Dr. Shiv Parsad
+  - **PH101**  Dr. Santosh Kumar Das
+  - **CH101**  Dr. E. Siva Subramaniam Iyer
+  - **CH102**  Dr. Raja Mitra
+  - **N0100**   Dr. Santosh Upadhyay
+  - **HS101**   Dr. Sabiha Hashami
   > **Spring Courses**
 
   &square; **CS102**   Dr. Clint Pazhayidam George [ Course webpage ](https://clintpgeorge.github.io/cs-102/spring-2023/)
