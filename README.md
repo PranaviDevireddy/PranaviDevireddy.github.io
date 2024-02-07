@@ -1,6 +1,4 @@
 
-# Profile Page
-
 # About me
  **Pranavi**
  
@@ -12,7 +10,7 @@ I'm Pranavi a first year student from **CSE Department** in **IIT Goa**.
 |----------------   |-------------------------------|-----------------------------|
 | 2020 -2021  |               10th        |  Srichaintanya    |
 |  2021-2023 | 11th -12th     |Miity   |
-
+| 2023 -     | B-tech 1st year | IIT Goa|
 # Course@IIT Goa
 
 > **Autumn courses**
